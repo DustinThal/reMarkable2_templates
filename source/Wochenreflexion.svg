@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1404"
+   height="1872"
+   viewBox="0 0 371.47501 495.30001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Wochenreflexion.svg"
+   inkscape:export-filename="C:\Users\dusti\Wochenreflexion.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="9.3544335"
+       y="35.814117"
+       width="350.92489"
+       height="18.708867"
+       id="rect29396" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath849">
+      <path
+         d="M 0,0.028 H 595.275 V 841.889 H 0 Z"
+         clip-rule="evenodd"
+         id="path847" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath857">
+      <path
+         d="m 56.7,771.089 h 481.85 v 14.099 H 56.7 Z"
+         clip-rule="evenodd"
+         id="path855" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath875">
+      <path
+         d="M 56.7,56.789 H 538.55 V 70.888 H 56.7 Z"
+         clip-rule="evenodd"
+         id="path873" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3671">
+      <path
+         d="M 0,0.028 H 595.275 V 841.889 H 0 Z"
+         clip-rule="evenodd"
+         id="path3669" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3679">
+      <path
+         d="m 56.7,771.089 h 481.85 v 14.099 H 56.7 Z"
+         clip-rule="evenodd"
+         id="path3677" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3697">
+      <path
+         d="M 56.7,56.789 H 538.55 V 70.888 H 56.7 Z"
+         clip-rule="evenodd"
+         id="path3695" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6493">
+      <path
+         d="M 0,0.028 H 841.861 V 595.303 H 0 Z"
+         clip-rule="evenodd"
+         id="path6491" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6501">
+      <path
+         d="m 56.694,530.43 h 728.45 v 8.178 H 56.694 Z"
+         clip-rule="evenodd"
+         id="path6499" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6519">
+      <path
+         d="m 56.694,56.802 h 728.45 V 64.98 H 56.694 Z"
+         clip-rule="evenodd"
+         id="path6517" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11091">
+      <path
+         d="M 0,0.028 H 841.861 V 595.303 H 0 Z"
+         clip-rule="evenodd"
+         id="path11089" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11099">
+      <path
+         d="M 56.661,527.079 H 785.149 V 538.64 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path11097" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11117">
+      <path
+         d="M 56.661,56.809 H 785.149 V 68.37 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path11115" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15689">
+      <path
+         d="M 0,0.028 H 841.861 V 595.303 H 0 Z"
+         clip-rule="evenodd"
+         id="path15687" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15697">
+      <path
+         d="M 56.661,527.079 H 785.149 V 538.64 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path15695" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15715">
+      <path
+         d="M 56.661,56.809 H 785.149 V 68.37 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path15713" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20212">
+      <path
+         d="M 0,0.028 H 841.861 V 595.303 H 0 Z"
+         clip-rule="evenodd"
+         id="path20210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20220">
+      <path
+         d="M 56.661,527.079 H 785.149 V 538.64 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path20218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20238">
+      <path
+         d="M 56.661,56.809 H 785.149 V 68.37 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path20236" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24738">
+      <path
+         d="M 0,0.028 H 841.861 V 595.303 H 0 Z"
+         clip-rule="evenodd"
+         id="path24736" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24746">
+      <path
+         d="M 56.661,527.079 H 785.149 V 538.64 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path24744" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24764">
+      <path
+         d="M 56.661,56.809 H 785.149 V 68.37 H 56.661 Z"
+         clip-rule="evenodd"
+         id="path24762" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="888.77605"
+     inkscape:cy="997.15842"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid29400" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.092px;line-height:1.25;font-family:'Swis721 BlkCn BT';-inkscape-font-specification:'Swis721 BlkCn BT';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="8.0986443"
+       y="15.701042"
+       id="text29250"><tspan
+         sodipodi:role="line"
+         id="tspan29248"
+         x="8.0986443"
+         y="15.701042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.092px;font-family:Tarzan;-inkscape-font-specification:Tarzan;stroke-width:0.264225">Woche _:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="7.525219"
+       y="31.397221"
+       id="text29254"><tspan
+         sodipodi:role="line"
+         id="tspan29252"
+         x="7.525219"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Gewohnheit/Aktivität</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="135.79601"
+       y="31.397221"
+       id="text29254-7"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1"
+         x="135.79601"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Ziel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="161.36909"
+       y="31.397221"
+       id="text29254-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-6"
+         x="161.36909"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Mo</tspan><tspan
+         sodipodi:role="line"
+         x="161.36909"
+         y="41.966259"
+         style="font-size:8.45523px;stroke-width:0.264225"
+         id="tspan29388" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="330.14624"
+       y="31.397221"
+       id="text29254-7-0"><tspan
+         sodipodi:role="line"
+         x="330.14624"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225"
+         id="tspan29390">Gesamt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="309.32513"
+       y="31.397221"
+       id="text29254-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-8"
+         x="309.32513"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">So</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="285.41583"
+       y="31.397221"
+       id="text29254-7-06"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-5"
+         x="285.41583"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Sa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="261.23407"
+       y="31.397221"
+       id="text29254-7-97"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-9"
+         x="261.23407"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="187.92064"
+       y="31.397221"
+       id="text29254-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-7"
+         x="187.92064"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Di</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="235.21086"
+       y="31.397221"
+       id="text29254-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-63"
+         x="235.21086"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Do</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="211.82997"
+       y="31.397221"
+       id="text29254-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan29252-1-3"
+         x="211.82997"
+         y="31.397221"
+         style="font-size:8.45523px;stroke-width:0.264225">Mi</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text29394"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect29396);" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5666px;line-height:0.05;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264165"
+       x="8.1031895"
+       y="33.299458"
+       id="text29404"><tspan
+         sodipodi:role="line"
+         x="8.1031895"
+         y="33.299458"
+         style="font-size:10.5666px;stroke-width:0.264165"
+         id="tspan29406">_______________________ ____ ____ ____ ____ ____ ____ ____ ____ _______</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.6129px;line-height:1.45;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265321"
+       x="7.4429564"
+       y="48.859337"
+       id="text29412"
+       transform="scale(1.0048781,0.99514559)"><tspan
+         sodipodi:role="line"
+         id="tspan29410"
+         x="7.4429564"
+         y="48.859337"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0.265321">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </tspan><tspan
+         sodipodi:role="line"
+         x="7.4429564"
+         y="64.248039"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0.265321"
+         id="tspan29414">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </tspan><tspan
+         sodipodi:role="line"
+         x="7.4429564"
+         y="79.636749"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0.265321"
+         id="tspan29416">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </tspan><tspan
+         sodipodi:role="line"
+         x="7.4429564"
+         y="95.025452"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0.265321"
+         id="tspan29418">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </tspan><tspan
+         sodipodi:role="line"
+         x="7.4429564"
+         y="110.41415"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0.265321"
+         id="tspan29420">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="7.9339437"
+       y="128.34027"
+       id="text29424"><tspan
+         sodipodi:role="line"
+         id="tspan29422"
+         x="7.9339437"
+         y="128.34027"
+         style="font-size:8.45523px;stroke-width:0.264225">Von 1-10, wie glücklich warst du diese Woche und warum?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.8153px;line-height:1.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.270385"
+       x="6.7044473"
+       y="150.25246"
+       id="text29428"
+       transform="scale(1.0176866,0.98262078)"><tspan
+         sodipodi:role="line"
+         id="tspan29426"
+         x="6.7044473"
+         y="150.25246"
+         style="stroke-width:0.270385">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7044473"
+         y="170.26076"
+         style="stroke-width:0.270385"
+         id="tspan29430">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7044473"
+         y="190.26907"
+         style="stroke-width:0.270385"
+         id="tspan29432">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7044473"
+         y="210.27737"
+         style="stroke-width:0.270385"
+         id="tspan29434">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="7.7192597"
+       y="230.84882"
+       id="text29438"><tspan
+         sodipodi:role="line"
+         id="tspan29436"
+         x="7.7192597"
+         y="230.84882"
+         style="font-size:8.45523px;stroke-width:0.264225">Was waren die drei GHrößten erfolge diese Woche?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5818px;line-height:1.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264549"
+       x="7.2243061"
+       y="253.25702"
+       id="text29442"><tspan
+         sodipodi:role="line"
+         id="tspan29440"
+         x="7.2243061"
+         y="253.25702"
+         style="stroke-width:0.264549">1.  ......................................................................................................</tspan><tspan
+         sodipodi:role="line"
+         x="7.2243061"
+         y="273.8916"
+         style="stroke-width:0.264549"
+         id="tspan29444">2.  ......................................................................................................</tspan><tspan
+         sodipodi:role="line"
+         x="7.2243061"
+         y="294.52621"
+         style="stroke-width:0.264549"
+         id="tspan29446">3.  ......................................................................................................</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="7.7481599"
+       y="309.62073"
+       id="text29450"><tspan
+         sodipodi:role="line"
+         id="tspan29448"
+         x="7.7481599"
+         y="309.62073"
+         style="font-size:8.45523px;stroke-width:0.264225" /><tspan
+         sodipodi:role="line"
+         x="7.7481599"
+         y="320.18976"
+         style="font-size:8.45523px;stroke-width:0.264225"
+         id="tspan29458">Ziele und Fortschritte bewerten: Hast du deine Zeit mit den richtigen Dingen </tspan><tspan
+         sodipodi:role="line"
+         x="7.7481599"
+         y="330.75879"
+         style="font-size:8.45523px;stroke-width:0.264225"
+         id="tspan29519">verbracht? Wenn nicht, wie willst du dich nächste Woche verbessern?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.8153px;line-height:1.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.270386"
+       x="6.7037988"
+       y="357.32571"
+       id="text29428-3"
+       transform="scale(1.0176866,0.98262078)"><tspan
+         sodipodi:role="line"
+         id="tspan29426-9"
+         x="6.7037988"
+         y="357.32571"
+         style="stroke-width:0.270386">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="377.33408"
+         style="stroke-width:0.270386"
+         id="tspan29430-8">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="397.34244"
+         style="stroke-width:0.270386"
+         id="tspan29432-1">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="417.35077"
+         style="stroke-width:0.270386"
+         id="tspan29434-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.8153px;line-height:1.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.270386"
+       x="6.7037988"
+       y="445.52438"
+       id="text29428-8"
+       transform="scale(1.0176866,0.98262078)"><tspan
+         sodipodi:role="line"
+         id="tspan29426-1"
+         x="6.7037988"
+         y="445.52438"
+         style="stroke-width:0.270386">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="465.53275"
+         style="stroke-width:0.270386"
+         id="tspan29430-3">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="485.54111"
+         style="stroke-width:0.270386"
+         id="tspan29432-2">.     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .</tspan><tspan
+         sodipodi:role="line"
+         x="6.7037988"
+         y="505.54944"
+         style="stroke-width:0.270386"
+         id="tspan29434-25" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45523px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264225"
+       x="7.7192597"
+       y="416.31979"
+       id="text29523"><tspan
+         sodipodi:role="line"
+         id="tspan29521"
+         x="7.7192597"
+         y="416.31979"
+         style="font-size:8.45523px;stroke-width:0.264225">Was hast du diese woche gelernt</tspan></text>
+  </g>
+</svg>
